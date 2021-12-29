@@ -6,5 +6,10 @@
             "email": "olegus@gmx.at"
         }
     ],
-    "require": {}
+    "require": {},
+    "license": "proprietary",
+    "description": "brain-games",
+    "bin": [
+        "bin/brain-games"
+      ]
 }
